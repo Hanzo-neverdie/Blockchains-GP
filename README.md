@@ -6,7 +6,7 @@
 
   * Alert:
   * You need to ensure the back-end solidity version fits your target smart contract needed to be detected(typing solc-select use YOURVERSION)
-  * When you detecting your smart contracts, there will be two output documents:output.sol(your smart contract), analyse.json(outcome of analyse)
+  * When you detecting your smart contracts, there will be two output documents:analyse.sol(your smart contract), output.json(outcome of analyse)
 
 ## Video Link
 
